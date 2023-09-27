@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alli Al-ameen
 =====================================================================================================================================
 
-Frontend Developer
+Software Engineer
 ------------------
 
 I am a software engineer with 2 years of experience building web applications, my focus area for the past years has been front-end development with React and Redux Toolkit, and recently I've been learning typescript. I also do a bit of back-end development using Node.js and Express.js
