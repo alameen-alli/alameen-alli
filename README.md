@@ -1,18 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alli Al-ameen
-=====================================================================================================================================
+Hi 👋 My name is Alli Al-ameen
+==============================
 
-Software Engineer
+Frontend Developer
 ------------------
 
-I am a software engineer with 2 years of experience building web applications, my focus area for the past years has been front-end development with React and Redux Toolkit, and recently I've been learning typescript. I also do a bit of back-end development using Node.js and Express.js
+I am a software Developer with 2 years of experience building web applications, my focus area for the past years has been front-end development with React and Redux Toolkit, and recently I've been learning typescript. I also do a bit of back-end development using Node.js and Express.js
 
-* 🌍  I'm based in Lagos, Nigeria.
-* 🖥️  See my portfolio at [My Portfolio](http://https://devalli.netlify.app/)
-* ✉️  You can contact me at [allialameen8739@gmail.com](mailto:allialameen8739@gmail.com)
-* 🧠  I'm learning Typescript
-* 🤝  I'm open to collaborating on open source and volunteer projects
-* ⚡  I'm your friendly neighborhood coder💻
-
+* 🌍  I'm based in Lagos, Nigeria.
+* 🖥️  See my portfolio at [My Portfolio](http://https://devalli.netlify.app/)
+* ✉️  You can contact me at [allialameen8739@gmail.com](mailto:allialameen8739@gmail.com)
+* 🧠  I'm learning Typescript
+* 🤝  I'm open to collaborating on open source and volunteer projects
+* ⚡  I'm your friendly neighborhood coder💻
 ### Skills
 
 
