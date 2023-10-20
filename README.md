@@ -7,7 +7,7 @@ Frontend Developer
 I am a software Developer with 2 years of experience building web applications, my focus area for the past years has been front-end development with React and Redux Toolkit, and recently I've been learning typescript. I also do a bit of back-end development using Node.js and Express.js
 
 * 🌍  I'm based in Lagos, Nigeria.
-* 🖥️  See my portfolio at [My Portfolio](http://https://devalli.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://alameenalli.netlify.app/)
 * ✉️  You can contact me at [allialameen8739@gmail.com](mailto:allialameen8739@gmail.com)
 * 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on open source and volunteer projects
