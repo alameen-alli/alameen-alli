@@ -9,7 +9,6 @@ I am a software Developer with 2 years of experience building web applications, 
 * 🌍  I'm based in Lagos, Nigeria.
 * 🖥️  See my portfolio at [My Portfolio](https://alameenalli.netlify.app/)
 * ✉️  You can contact me at [allialameen8739@gmail.com](mailto:allialameen8739@gmail.com)
-* 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on open source and volunteer projects
 * ⚡  I'm your friendly neighborhood coder💻
 
