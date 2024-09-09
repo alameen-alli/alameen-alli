@@ -1,10 +1,10 @@
 Hi 👋 My name is Alli Al-ameen
 ==============================
 
-Frontend Developer
+Software Developer
 ------------------
 
-I am a software Developer with 2 years of experience building web applications, my focus area for the past years has been front-end development with React, Next.js and Typescript. I also do back-end development using Node.js and Express.js
+Software Developer with 3 years of hands-on experience developing scalable web applications and enhancing user engagement through optimised front-end features. Proficient in TypeScript, JavaScript, React, Next.js, and Node.js. Strong track record in building dynamic user interfaces, improving performance, and implementing real-time data handling.
 
 * 🌍  I'm based in Lagos, Nigeria.
 * 🖥️  See my portfolio at [My Portfolio](https://alameenalli.netlify.app/)
